@@ -1,0 +1,11 @@
+I'm interested in using companies house data to investigate some trends among science companies.
+
+Their full database is very big, and difficult to access and work with.
+
+A friend built a webapp that takes CSV seperated company numbers, and provides some detailed information.
+
+It's limited to 600 API pulls every 5 minutes.
+
+Check it out by pasting these company numbers into the website:
+
+12740515, 12760444, 12762571, 12768505, 12769442
